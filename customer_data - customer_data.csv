@@ -1,0 +1,11 @@
+CustomerID,CustomerName,City,Age,Membership
+2001,Customer_1,Delhi,29,Silver
+2002,Customer_2,Bangalore,22,Gold
+2003,Customer_3,Chennai,54,Platinum
+2004,Customer_4,Delhi,49,Gold
+2005,Customer_5,Mumbai,26,Silver
+2006,Customer_6,Chennai,58,Silver
+2007,Customer_7,Chennai,52,Platinum
+2008,Customer_8,Mumbai,36,Silver
+2009,Customer_9,Delhi,33,Gold
+2010,Customer_10,Mumbai,20,Platinum
